@@ -47,6 +47,9 @@ Valentine Prank Web adalah situs web interaktif yang dibuat untuk momen Valentin
 3. Klik **Deploy** dan tunggu beberapa detik.
 4. Dapatkan link langsung dari Netlify.
 
+### 3️⃣ **Deploy Status**
+- **Buka Web** ([vprank01](https://vprank01.netlify.app/))
+
 ## 📖 Usage Guide
 
 1. **Buka website**, lalu baca pertanyaannya.
